@@ -1,4 +1,5 @@
 [MSL(Moisture Sensitivity Level; 습도에 대한 민감도)](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=phillipyu73&logNo=220805453352)
+
 : 반도체 제품마다 MSL이라는 등급을 만들어 두고, 해당 사용 조건에 따라 제품을 다루는 방법을 정의해 놓은 것
 
 쉽게 말하면, 한번 포장을 뜯은 제품을 다시 사용하려 할 때는, 일정한 온도와 습도 조건에서 다시 건조(이를 베이킹(Baking)이라고 함)시켜서 사용해야 하는 것
