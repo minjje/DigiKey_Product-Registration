@@ -11,3 +11,5 @@ CA Proposition 65
 규제 대상에 해당하는 기업이라면, 우선 해당 기업이 캘리포니아 소비자에게 판매·유통하는 제품의 지정 유해 물질 함유 여부 및 함량 등을 전문 테스팅 기관을 통해 정확히 확인한 뒤, 해당 제품이 함유하는 지정 유해 물질이 법률상 안전 허용치(Safe-harbor level)를 넘어서는 경우 이에 대한 명확하고 적절한 경고문(Warning Label)을 소비자에게 제공.
 
 ![image](https://user-images.githubusercontent.com/94779437/184755775-ea909157-6571-43cc-a473-6cc1c4a4abce.png)
+
+[한국 CA Prop 65 Test 기업:Intertek](http://www.intertek.co.kr/)
