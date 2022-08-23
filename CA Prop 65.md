@@ -13,3 +13,6 @@ CA Proposition 65
 ![image](https://user-images.githubusercontent.com/94779437/184755775-ea909157-6571-43cc-a473-6cc1c4a4abce.png)
 
 [한국 CA Prop 65 Test 기업:Intertek](http://www.intertek.co.kr/)
+
+
+결론: 꼭 Test가 필요한 것은 아니다. 캘리포니아 주에 알권리를 주기 위해 경고라벨을 제작해서 제품이 있는 모든 곳에 부착하면 됨.
